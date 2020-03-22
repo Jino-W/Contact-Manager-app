@@ -1,0 +1,20 @@
+>src 
+    >index.js
+    >App.js
+    >components
+        >common
+            >Home.js
+        >users
+            >Register.js
+            >Login.js
+
+
+
+
+cmd>cd client(frontend)
+    -> react-router-dom, axios (npm install --save react-router-dom axios)
+
+cmd>contact-manager(Backend)
+    -> npm install --save cors
+    -> npm install --save concurrently
+    npm rum app
